@@ -20,7 +20,7 @@ The Weather App is a web-based application developed in Python using Streamlit. 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Sumanth96syrax/Python-Weather-Forecasting
 
 Install Dependencies:
 Install the required Python libraries using pip:
